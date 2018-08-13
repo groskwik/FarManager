@@ -1,0 +1,2 @@
+# FarManager
+FarManager Configuration files 
